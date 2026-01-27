@@ -27,7 +27,7 @@ If you find our survey is useful in your research or applications, please consid
 
 ```
 @article{zhoureasoning,
-  title={Reasoning as the Engine: The Evolution from Medical LLMs to Versatile Medical Agents},
+  title={From Medical LLMs to Versatile Medical Agents: A Comprehensive Survey},
   author={Zhou, Yucheng and Zheng, Huan and Chen, Dubing and Yang, Hongji and Han, Wencheng and Shen, Jianbing},
   booktitle={OpenReview},
   year={2025},
